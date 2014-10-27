@@ -1,4 +1,16 @@
 javascript-todo-list
 ====================
 
-JavaScript ToDo List
+**Traversing and manipulating the DOM with JavaScript**
+
+- getElementById()
+- getElementsByTagName()
+- parentNode
+- querySelector()
+- createElement()
+- appendChild
+- type
+- innerText
+- className
+- innerHTML
+- innerHTML
